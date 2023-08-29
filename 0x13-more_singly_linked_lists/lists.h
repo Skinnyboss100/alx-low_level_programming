@@ -1,5 +1,16 @@
 #ifndef LISTS_H
 #define LISTS_H
+#include <stdio.h>
+#include <stdlib.h>
+
+/**
+ * struct listint_s - the singly linked list to be used
+ * @n: integer in this program
+ * @next: this points to the next node
+ */
+
+
+
 
 typedef struct listint_s
 {
