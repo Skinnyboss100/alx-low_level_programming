@@ -1,5 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
 #include"lists.h"
 /**
  * function that returns the number of elements in a linked lists
@@ -7,7 +5,6 @@
  *
  * Return:the number of nodes
  */
-
 
 
 
@@ -23,4 +20,5 @@ size_t listint_len(const listint_t *h)
 
 	return (num);
 }
+
 
